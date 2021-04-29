@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>重新搭建hexo</title>
+    <link href="/2021/04/28/newhexomk/"/>
+    <url>/2021/04/28/newhexomk/</url>
+    
+    <content type="html"><![CDATA[<p>之前搭建的hexo本地文件因为重装系统搞没了，就一直懒的去找回了，想着永不更新的！</p><p>结果今天有时间就慢慢找回了，我没用啥技巧，重新下载主题设置，更新新文章…</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>日记</tag>
+      
+      <tag>hexo</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>终于学会改大佬api里面的模型了</title>
+    <link href="/2021/04/28/xuehuigaiapi/"/>
+    <url>/2021/04/28/xuehuigaiapi/</url>
+    
+    <content type="html"><![CDATA[<p style="text-indent: 2em;">一开始看到大佬那一页满满的api说明就退缩了，以为改大佬api里面的模型很麻烦，没怎么看就直接拿来用了。这几天因为学了点在游戏里提取live2d的方法，沉迷于纸片人无法自拔了，扒了一大堆模型文件，就想放到我的网站上慢慢玩</p><p style="text-indent: 2em;">于是重新回去看了一下大佬介绍的使用方法，发现原来十分的简单，就是在model里面添加模型文件，然后在list文件里添加路径就可以，大佬真的是太棒了</p><p><img src="https://qiuliqi.top/wp-content/uploads/2020/09/20200904144046.png" alt="目录"></p><p>需要注意的是模型文件里面的文件名需要修改一下下，起飞咯</p><p><a href="https://api.qiuliqi.top/live2d/mxapisy.html">小可爱预览和使用方法</a></p><p>谢谢各位大佬教导！</p><p><a href="https://github.com/fghrsh/live2d_api">后端API</a><br><a href="https://github.com/stevenjoezhang/live2d-widget">前端API</a></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>live2d</tag>
+      
+      <tag>api</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>我胆小的借口来了</title>
+    <link href="/2021/04/28/wodxdejk/"/>
+    <url>/2021/04/28/wodxdejk/</url>
+    
+    <content type="html"><![CDATA[<center><p>古人云：“吉人寡言语，躁人之辞多。”</p><p>他人是非，不如不言；</p><p>人云亦云，不如不言；</p><p>言而不当，不如不言；</p><p>旧事重提，不如不言；</p><p>知而不行，不如不言；</p><p>真正智者，知而不言。</p></center>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>日记</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>关于北极代码库贡献者</title>
+    <link href="/2021/04/28/bjidmk/"/>
+    <url>/2021/04/28/bjidmk/</url>
+    
+    <content type="html"><![CDATA[<p>最近才听说GitHub宣布已将所有代码永久封存于北极地底1000年！立马跑去GitHub看看我的代码库，果然我的hellWord也在上面</p><p><img src="https://qiuliqi.top/wp-content/uploads/2020/07/20200724194428-2.png" alt="截图1"></p><p><img src="https://cdn.jsdelivr.net/gh/qiuliqi/live2d@master/biz/20200724194428-1.png" alt="截图2"></p><p>虽然只写个helloWord感觉有点羞耻，但我想应该不会只有我一人这样吧！嘿嘿</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>github</tag>
+      
+      <tag>Hello World</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>小秋秋搜索主页</title>
+    <link href="/2021/04/28/xqqsszy/"/>
+    <url>/2021/04/28/xqqsszy/</url>
+    
+    <content type="html"><![CDATA[<center><p>一个简单的搜索主页，搜索框+书签+看板娘= <a href="https://so.qiuliqi.top/" rel="noopener noreferrer" target="_blank">小秋秋搜索</a></p><p>欢迎加入浏览器主页</p></center><p><img src="https://cdn.jsdelivr.net/gh/qiuliqi/qiuliqi.github.io/img/20200620115334.png" alt="主页截图"></p><p>原作者github源码：<a href="https://github.com/5iux/sou">查看</a></p><p>感谢<a href="https://www.xiaolfeng.xyz/">筱锋</a>大佬的指导</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>html</tag>
+      
+      <tag>搜索主页</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>简陋API搭建</title>
+    <link href="/2021/04/28/apidaj/"/>
+    <url>/2021/04/28/apidaj/</url>
+    
+    <content type="html"><![CDATA[<p style="text-indent: 2em;">今天在网上看到一个大神的随机图片的api，刚好最近在做网页的动态背景，这么多好看的动态壁纸，当然要全部都放到我的网站上</p><p>于是就把大佬的api简单修改一下，做成随机视频的api，配合wallpaper就可以在桌面设置可以随机的动态壁纸</p><p><img src="https://cdn.jsdelivr.net/gh/qiuliqi/live2d@master/biz/20200528224934.png" alt="代码截图"></p><p>起飞</p><p>API合集：<a href="https://api.qiuliqi.top/">https://api.qiuliqi.top/</a></p><p>随机视频api：<a href="https://api.qiuliqi.top/sp/">https://api.qiuliqi.top/sp/</a></p><p>动态壁纸+看板娘：<a href="https://qiuliqi.top/2233/dtbz.html">https://qiuliqi.top/2233/dtbz.html</a></p><p>放桌面使用：<a href="https://qiuliqi.top/2233/dtbz.html?bottom=40&amp;right=20">https://qiuliqi.top/2233/dtbz.html?bottom=40&amp;right=20</a></p><p>复制链接在wallpaper的URL使用即可</p><p>感谢<a href="https://www.toubiec.cn/12.html">苏晓晴</a>博客提供的API源码</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>api</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>发现血小板！</title>
+    <link href="/2021/04/28/xxb/"/>
+    <url>/2021/04/28/xxb/</url>
+    
+    <content type="html"><![CDATA[<p style="text-indent: 2em;">昨天上班摸鱼的时候，发现了一位大佬用了血小板的看板娘，萝莉控的我瞬间激动了，更高兴的是大佬竟然把模型也发出来了，那必须放到我桌面上呀!</p><h2 id="查看模型"><a href="#查看模型" class="headerlink" title="查看模型"></a>查看模型</h2><p><img src="https://cdn.jsdelivr.net/gh/qiuliqi/live2d@master/biz/sp180912_234533.png" alt="模型图片"></p><h2 id="关于模型的使用"><a href="#关于模型的使用" class="headerlink" title="关于模型的使用"></a>关于模型的使用</h2><p style="text-indent: 2em;">之前我的看板娘都是用的第三方大佬的api，直到最近突然不能用了，才想到要自己建一个api，自建一个api也挺简单的，就是把大佬做好的文件放到自己的网站空间就行，伸手党专业使用过程哈哈。这里肯定要感谢一下大佬们啦</p><p style="text-indent: 2em;">因为血小板是一个单独的模型，我们就不把他放到api里面去了（主要是自己也不会在api里添加模型~~）那就直接把模型文件上传到网站根目录，然后替换掉api链接为你的模型链接就行，这里我也是看另外一个大佬发的文章学习到的</p><p>自己的模型接口：</p><pre><code>https://qiuliqi.top/xxb2/model/xxb/model.json</code></pre><p>替换原waifu.tips.js中的API接口</p><pre><code>function loadModel(modelId, modelTexturesId)&#123;// localStorage.setItem(&#39;modelId&#39;, modelId);// if (modelTexturesId === undefined) modelTexturesId = 0;// localStorage.setItem(&#39;modelTexturesId&#39;, modelTexturesId);loadlive2d(&#39;live2d&#39;,&#39;https://qiuliqi.top/xxb2/model/xxb/model.json&#39;/*&#39;https://api.fghrsh.net/live2d/get/?id=&#39;+modelId+&#39;-&#39;+modelTexturesId*/, console.log(&#39;live2d&#39;,&#39;模型 &#39;+modelId+&#39;-&#39;+modelTexturesId+&#39; 加载完成&#39;));&#125;</code></pre><p>因为没有设置很多个皮肤，目前只有小可爱-血小板一个。所以modelId，modelTexturesId都可以忽略了。</p><p><del>最后就是血小板后面那牌子了，我那半路出家的技术还是改不了，回头请教一下大佬</del></p><p>已解决，大佬猫猫大佬有发教程，之前没认真看</p><p>起飞：<a href="https://qiuliqi.top/xxb2/">https://qiuliqi.top/xxb2/</a></p><p>如果是用wallpaper在桌面显示的话，后面还需要加上参数：</p><pre><code>https://qiuliqi.top/xxb2/?bottom=40&amp;amp;right=20</code></pre><p><img src="https://cdn.jsdelivr.net/gh/qiuliqi/qiuliqi.github.io/img/mZuCODtReEtxUO38.gif" alt="血小板gif"></p><p>最后感谢猫与向日葵博客制作的看板娘-血小板。<a href="https://imjad.cn/archives/lab/add-dynamic-poster-girl-with-live2d-to-your-blog-03/">查看地址</a></p><p>感谢Shaka大佬提供的换看板娘模型的教程。<a href="http://blog.177kankan.com/view/34">查看地址</a></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>live2d</tag>
+      
+      <tag>看板娘</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2021/04/28/hello-world/"/>
+    <url>/2021/04/28/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
