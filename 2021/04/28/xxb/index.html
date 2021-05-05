@@ -249,13 +249,7 @@
 <pre><code>https://qiuliqi.top/xxb2/model/xxb/model.json
 </code></pre>
 <p>替换原waifu.tips.js中的API接口</p>
-<pre><code>function loadModel(modelId, modelTexturesId)&#123;
-// localStorage.setItem(&#39;modelId&#39;, modelId);
-// if (modelTexturesId === undefined) modelTexturesId = 0;
-// localStorage.setItem(&#39;modelTexturesId&#39;, modelTexturesId);
-loadlive2d(&#39;live2d&#39;,&#39;https://qiuliqi.top/xxb2/model/xxb/model.json&#39;/*&#39;https://api.fghrsh.net/live2d/get/?id=&#39;+modelId+&#39;-&#39;+modelTexturesId*/, console.log(&#39;live2d&#39;,&#39;模型 &#39;+modelId+&#39;-&#39;+modelTexturesId+&#39; 加载完成&#39;));
-&#125;
-</code></pre>
+<figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs javascript"><span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-title">loadModel</span>(<span class="hljs-params">modelId, modelTexturesId</span>)</span>&#123;<br><span class="hljs-comment">// localStorage.setItem(&#x27;modelId&#x27;, modelId);</span><br><span class="hljs-comment">// if (modelTexturesId === undefined) modelTexturesId = 0;</span><br><span class="hljs-comment">// localStorage.setItem(&#x27;modelTexturesId&#x27;, modelTexturesId);</span><br>loadlive2d(<span class="hljs-string">&#x27;live2d&#x27;</span>,<span class="hljs-string">&#x27;https://qiuliqi.top/xxb2/model/xxb/model.json&#x27;</span><span class="hljs-comment">/*&#x27;https://api.fghrsh.net/live2d/get/?id=&#x27;+modelId+&#x27;-&#x27;+modelTexturesId*/</span>, <span class="hljs-built_in">console</span>.log(<span class="hljs-string">&#x27;live2d&#x27;</span>,<span class="hljs-string">&#x27;模型 &#x27;</span>+modelId+<span class="hljs-string">&#x27;-&#x27;</span>+modelTexturesId+<span class="hljs-string">&#x27; 加载完成&#x27;</span>));<br>&#125;<br></code></pre></td></tr></table></figure>
 <p>因为没有设置很多个皮肤，目前只有小可爱-血小板一个。所以modelId，modelTexturesId都可以忽略了。</p>
 <p><del>最后就是血小板后面那牌子了，我那半路出家的技术还是改不了，回头请教一下大佬</del></p>
 <p>已解决，大佬猫猫大佬有发教程，之前没认真看</p>
